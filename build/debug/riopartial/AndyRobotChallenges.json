@@ -1,9 +1,0 @@
-[
-  {
-    "artifact": "frcJava (in project AndyRobotChallenges)",
-    "target": "roborio",
-    "debugfile": "frcJava_roborio.debugconfig",
-    "project": "AndyRobotChallenges",
-    "language": "java"
-  }
-]
